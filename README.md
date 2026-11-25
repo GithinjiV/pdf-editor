@@ -8,7 +8,7 @@ A small PDF form filler that runs entirely in the browser. Open a PDF, type on i
 
 - **Text**: click where the writing should sit and type. Double-click to edit later.
 - **Tick**: click a box to tick it.
-- **Whiteout**: cover existing text with a white box.
+- **Whiteout**: cover existing text with a box. White by default; pick any **Fill** colour, or use **Pick from page** to match a shaded area such as a coloured table cell.
 - **Image**: add a signature or stamp. The paper background is removed automatically, with a slider to adjust it.
 - **Library**: keep signatures and stamps in the browser for one-click reuse.
 - Move anything by dragging, nudge with the arrow keys, resize images from the corner, and delete with Del.
